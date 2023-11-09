@@ -1,0 +1,132 @@
+=============================================================================
+Inicio da execucao: udp_server.js
+Disciplina Redes de Computadores II  -  Prof. Elias P. Duarte Jr.
+Aluna: Gabriel de Almeida Sales Evaristo - GRR20165266
+=============================================================================
+
+Instanciando o Socket ...
+Registrando callback para o evento "listening" ...
+Registrando callback para o evento "message" ...
+Registrando callback para o evento "error" ...
+Registrando callback para o evento "close" ...
+Socket iniciado! IPv4 146.190.155.2:41234
+-----------------------------------------------------------------------------
+
+A mensagem 1, com 34482 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 1, de 34442 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 1, com 18446 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 1, de 18462 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 2, com 33574 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 2, de 33574 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 2, com 18834 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 2, de 18842 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 1, com 28742 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 1, de 30150 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 3, com 33234 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 3, de 33190 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 3, com 18958 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 3, de 18994 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 2, com 28634 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 2, de 30094 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 4, com 34406 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 4, de 34370 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 4, com 19210 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 4, de 19226 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 3, com 28438 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 3, de 29738 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 5, com 33242 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 5, de 33222 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 5, com 19210 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 5, de 19206 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 4, com 29094 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 4, de 30294 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 6, com 34126 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 6, de 34462 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 6, com 19390 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 6, de 19390 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 5, com 36010 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 5, de 36842 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 7, com 32898 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 7, de 32894 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 7, com 19478 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 7, de 19498 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 6, com 35610 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 6, de 36670 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 8, com 33402 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 8, de 33382 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 8, com 19670 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 8, de 19666 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 7, com 36922 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 7, de 37906 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 9, com 32294 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 9, de 32262 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 9, com 19882 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 9, de 20790 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 8, com 35706 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 8, de 36930 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 10, com 32031 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 10, de 31991 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 10, com 19803 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 10, de 20707 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 9, com 36646 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 9, de 37910 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 11, com 33299 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 11, de 33523 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 11, com 19111 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 11, de 20347 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 12, com 32463 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 12, de 32715 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 12, com 19855 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 12, de 20999 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 11, com 36235 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 11, de 37439 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 13, com 32267 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 13, de 32203 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 13, com 19391 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 13, de 20579 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 12, com 36291 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 12, de 37347 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 14, com 33407 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 14, de 33363 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 14, com 18859 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 14, de 19963 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 13, com 34819 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 13, de 35935 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 15, com 32907 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 15, de 33439 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 15, com 19651 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 15, de 20719 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 14, com 36031 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 14, de 37127 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 16, com 35427 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 16, de 35295 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 16, com 20075 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 16, de 21243 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 15, com 35987 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 15, de 37163 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 17, com 33927 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 17, de 33883 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 17, com 20343 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 17, de 21427 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 16, com 35311 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 16, de 36527 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 18, com 33479 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 18, de 33435 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 18, com 20467 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 18, de 21483 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 17, com 35959 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 17, de 37079 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 19, com 34379 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 19, de 34587 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 19, com 20623 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 19, de 21687 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 18, com 36223 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 18, de 37495 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 20, com 33059 bytes, foi recebida de 191.177.164.175:14067!
+A mensagem 20, de 33283 bytes, foi enviada para 191.177.164.175:14067!
+A mensagem 20, com 20527 bytes, foi recebida de 191.177.164.175:14068!
+A mensagem 20, de 21623 bytes, foi enviada para 191.177.164.175:14068!
+A mensagem 19, com 35379 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 19, de 36591 bytes, foi enviada para 191.177.164.175:14071!
+A mensagem 20, com 35931 bytes, foi recebida de 191.177.164.175:14071!
+A mensagem 20, de 37015 bytes, foi enviada para 191.177.164.175:14071!

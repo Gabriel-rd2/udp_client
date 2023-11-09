@@ -1,0 +1,66 @@
+=============================================================================
+Inicio da execucao: udp_client.js
+Disciplina Redes de Computadores II  -  Prof. Elias P. Duarte Jr.
+Aluna: Gabriel de Almeida Sales Evaristo - GRR20165266
+=============================================================================
+
+Instanciando o Socket ...
+Registrando callback para o evento "listening" ...
+Registrando callback para o evento "message" ...
+Registrando callback para o evento "close" ...
+Socket iniciado! IPv4 192.168.0.140:34493
+-----------------------------------------------------------------------------
+
+A mensagem 1, de 34482 bytes, foi enviada!
+A mensagem 1, com 34442 bytes, foi recebida!
+A mensagem 2, de 33574 bytes, foi enviada!
+A mensagem 2, com 33574 bytes, foi recebida!
+A mensagem 3, de 33234 bytes, foi enviada!
+A mensagem 3, com 33190 bytes, foi recebida!
+A mensagem 4, de 34406 bytes, foi enviada!
+A mensagem 4, com 34370 bytes, foi recebida!
+A mensagem 5, de 33242 bytes, foi enviada!
+A mensagem 5, com 33222 bytes, foi recebida!
+A mensagem 6, de 34126 bytes, foi enviada!
+A mensagem 6, com 34462 bytes, foi recebida!
+A mensagem 7, de 32898 bytes, foi enviada!
+A mensagem 7, com 32894 bytes, foi recebida!
+A mensagem 8, de 33402 bytes, foi enviada!
+A mensagem 8, com 33382 bytes, foi recebida!
+A mensagem 9, de 32294 bytes, foi enviada!
+A mensagem 9, com 32262 bytes, foi recebida!
+A mensagem 10, de 32031 bytes, foi enviada!
+A mensagem 10, com 31991 bytes, foi recebida!
+A mensagem 11, de 33299 bytes, foi enviada!
+A mensagem 11, com 33523 bytes, foi recebida!
+A mensagem 12, de 32463 bytes, foi enviada!
+A mensagem 12, com 32715 bytes, foi recebida!
+A mensagem 13, de 32267 bytes, foi enviada!
+A mensagem 13, com 32203 bytes, foi recebida!
+A mensagem 14, de 33407 bytes, foi enviada!
+A mensagem 14, com 33363 bytes, foi recebida!
+A mensagem 15, de 32907 bytes, foi enviada!
+A mensagem 15, com 33439 bytes, foi recebida!
+A mensagem 16, de 35427 bytes, foi enviada!
+A mensagem 16, com 35295 bytes, foi recebida!
+A mensagem 17, de 33927 bytes, foi enviada!
+A mensagem 17, com 33883 bytes, foi recebida!
+A mensagem 18, de 33479 bytes, foi enviada!
+A mensagem 18, com 33435 bytes, foi recebida!
+A mensagem 19, de 34379 bytes, foi enviada!
+A mensagem 19, com 34587 bytes, foi recebida!
+A mensagem 20, de 33059 bytes, foi enviada!
+A mensagem 20, com 33283 bytes, foi recebida!
+
+
+Aproximadamente 20s se passaram, o teste será finalizado!
+-----------------------------------------------------------------------------
+Fechando o socket depois de 5s...
+Socket fechado!
+
+=============================================================================
+Fim da execucao: udp_client.js
+Pacotes perdidos: 0
+Pacotes fora de ordem: 0
+=============================================================================
+
